@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vedanta's Car Show</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Vedanta's Car Show</h1>
+  </header>
+
+  <main class="gallery">
+    <div class="car">
+      <img src="https://via.placeholder.com/400x250?text=Car+1" alt="Car 1">
+      <p>Car Model 1</p>
+    </div>
+    <div class="car">
+      <img src="https://via.placeholder.com/400x250?text=Car+2" alt="Car 2">
+      <p>Car Model 2</p>
+    </div>
+    <div class="car">
+      <img src="https://via.placeholder.com/400x250?text=Car+3" alt="Car 3">
+      <p>Car Model 3</p>
+    </div>
+    <div class="car">
+      <img src="https://via.placeholder.com/400x250?text=Car+4" alt="Car 4">
+      <p>Car Model 4</p>
+    </div>
+  </main>
+
+  <footer>
+    <p>&copy; 2024 Vedanta's Car Show. All rights reserved.</p>
+  </footer>
+</body>
+</html>
